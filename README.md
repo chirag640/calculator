@@ -48,6 +48,12 @@ This repository contains a simple calculator web application built using HTML, C
 
 The calculator features a clean and minimalistic design with a white background, making it visually appealing and easy to read. The Poppins font adds a touch of modernity.
 
+## Screenshots
+
+Include screenshots or GIFs showcasing the calculator's user interface and functionality.
+![image](https://github.com/chirag640/calculator/assets/111826944/376df1d2-65fe-4318-a812-50c4eb77af3c)
+
+
 ## Contributing
 
 Contributions to the project are welcome! Feel free to submit issues or pull requests for any improvements or bug fixes.
